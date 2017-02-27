@@ -1,0 +1,6 @@
+LIBRARY MotionLogicLib
+EXPORTS
+
+
+RequestBallMotion       @1
+FinalizeMotionForBall   @2
